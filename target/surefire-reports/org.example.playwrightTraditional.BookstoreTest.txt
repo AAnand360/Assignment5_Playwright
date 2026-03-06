@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.example.playwrightTraditional.BookstoreTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 84.46 s -- in org.example.playwrightTraditional.BookstoreTest
